@@ -8,7 +8,7 @@
 ## Url on which GitLab will be reachable.
 ## For more details on configuring external_url see:
 ## https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/settings/configuration.md#configuring-the-external-url-for-gitlab
-external_url 'http://gitlab.example.com'
+external_url 'http://gitlab.fmat.com'
 
 
 ## Note: configuration settings below are optional.
